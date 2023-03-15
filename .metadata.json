@@ -1,5 +1,9 @@
 [
   {
+    "package": "factorstochvol",
+    "oncran": true
+  },
+  {
     "package": "stochvol",
     "oncran": true
   }

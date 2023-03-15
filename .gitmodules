@@ -3,6 +3,11 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "factorstochvol"]
+	path = factorstochvol
+	url = https://github.com/gregorkastner/factorstochvol
+	shallow = true
+	registered = true
 [submodule "stochvol"]
 	path = stochvol
 	url = https://github.com/gregorkastner/stochvol
